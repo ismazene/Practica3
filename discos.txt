@@ -1,4 +1,4 @@
 The Beatles
 Ella & Louis
 Jagged Little Pill
-Closes #4
+Close #4
